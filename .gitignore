@@ -217,6 +217,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Raw Data & Jupiter
+# Raw Data & Jupyter
 data/raw/*.csv
 .ipynb_checkpoints/
